@@ -1,0 +1,618 @@
+*{
+	padding: 0;
+	margin:0;
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.bigger{
+	width: 1600px;
+	height: 1610px;
+	border: 1px red solid;
+	font-family: microsoft yahei;
+	background: 
+}
+.head{
+	width: 1600px;
+	height: 966px;
+	background: #09070e;
+}
+.top{
+	float: left;
+	margin-left: 19px;
+	height: 40px;
+	width: 1581px;
+	background: #010102;
+}
+.top1{
+	margin-left: 160px;
+	float: left;
+	width: 1300px;
+	height: 40px;
+}
+.fangda{
+	position: relative;
+	top: -23px;
+	left: 1140px;
+	display: block;
+	width: 21px;
+	height: 26px;
+	background: url(./lzsy/1.png) no-repeat;
+}
+.zi1{
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+}
+.zi2{
+	margin-left: 80px;
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+}
+.zi3{
+	margin-left: 40px;
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+}
+.one{
+	margin-left: 220px;
+	width: 1380px;
+	height: 924px;
+	background: url(./lzsy/2.png)no-repeat;
+}
+.three{
+	width: 1600px;
+	height: 50px;
+	background: #f6f6f7;
+}
+.three1{
+	float: left;
+}
+.three2{
+	float: left;
+	font-size: 20px;
+	color: #a899b0;
+	line-height:50px;
+	margin-left: 200px;
+}
+.three3{
+	margin-left: 90px;
+	float: left;
+}
+.three31{
+	margin-top: 12px;
+	float: left;
+	width: 22px;
+	height: 22px;
+	background: url(./lzsy/1.png)-21px 0px  no-repeat;
+}
+.three32{
+	float: left;
+}
+.three33{
+	line-height: 50px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #a0a1a1;
+}
+.three34{
+	line-height: 32px;
+	font-size: 14px;
+	color: #a0a1a1;
+}
+.three4{
+	float: left;
+}
+.three41{
+	margin-top: 18px;
+	margin-left: 100px;
+	float: left;
+	width: 20px;
+	height: 17px;
+	background:url(./lzsy/1.png)-43px 0px no-repeat; 
+}
+.three5{
+	float: left;
+}
+.three51{
+	margin-top: 18px;
+	margin-left: 100px;
+	float: left;
+	width: 20px;
+	height: 15px;
+	background:url(./lzsy/1.png)-60px 0px no-repeat;
+}
+.three6{
+	float: left;
+}
+.three61{
+	margin-top: 18px;
+	margin-left: 90px;
+	float: left;
+	width: 20px;
+	height: 20px;
+	background:url(./lzsy/1.png)-78px 0px no-repeat; 
+}
+.four{
+	margin-left: 220px;
+	margin-top: 50px;
+	float: left;
+	width: 1150px;
+	height:435px;
+}
+.four1{
+	width: 223px;
+	height: 428px;
+	float: left;
+}
+.four11{
+	float: left;
+	width: 220px;
+	height: 205px;
+}
+.four111{
+	z-index: 1;
+	float: left;
+	width: 220px;
+	height: 205px;
+	background:url(./lzsy/3.png) no-repeat;
+}
+.four112{
+	z-index: 3;
+	display: none;
+	float: left;
+	width: 220px;
+	height: 205px;
+	background: #635c5b;
+	opacity: 0.6;
+	position: relative;
+	top: -205px;
+}
+.four113{
+	z-index: 100;
+	display: none;
+	position: relative;
+	top: -340px;
+	left: 48px;
+	width: 120px;
+	height: 55px;
+	float: left;
+	background: #ff48ce;
+	padding-top: 15px;
+	text-align: center;
+}
+.four113 span{
+	color: white;
+	font-size: 14px;
+}
+.four11:hover .four112,.four11:hover .four113{
+	display: block;
+}
+.four12{
+	width: 220px;
+	height: 205px;
+	float: left;
+}
+.four121{
+	z-index: 1;
+	margin-top: 10px;
+	width: 220px;
+	height: 205px;
+	float: left;
+	background:url(./lzsy/4.png) no-repeat;
+}
+.four12:hover .four112,.four12:hover .four113{
+	display: block;
+}
+.four2{
+	margin-left: 8px;
+	width: 223px;
+	height: 424px;
+	float: left;
+}
+.four21{
+	width: 223px;
+	height: 424px;
+	float: left;
+	background:url(./lzsy/5.png) no-repeat; 
+}
+.four22{
+	display: none;
+	width: 223px;
+	height: 424px;
+	background: #635c5b;
+	opacity: 0.6; 
+}
+.four23{
+	color: white;
+	display: none;
+	padding-top: 15px;
+	left: 48px;
+	width: 120px;
+	height: 55px;
+	float: left;
+	background: #ff48ce;
+	text-align: center;
+	position: relative;
+	left: 48px;
+	top: -245px;
+}
+.four2:hover .four22,.four2:hover .four23{
+	display: block;
+}
+.four3{
+	margin-left: 8px;
+	width: 452px;
+	height: 425px;
+	float: left;
+}
+.four31{
+	width: 450px;
+	height: 108px;
+	float: left;
+}
+.four311{
+	float: left;
+	width: 80px;
+	height: 106px;
+	background: #f5e3de;
+}
+.four312{
+	z-index: 1;
+	margin-left: 9px;
+	float: left;
+	width: 166px;
+	height: 107px; 
+}
+.four3121{
+	float: left;
+	width: 166px;
+	height: 107px;
+	background:url(./lzsy/6.png) no-repeat;  
+}
+.four3122{
+	display: none;
+	float: left;
+	width: 166px;
+	height: 107px;
+	background: #635c5b;
+	opacity: 0.6; 
+	z-index: 10;
+	position: relative;
+	top: -107px;
+}
+.four3123{
+	color: white;
+	display: none;
+	z-index: 100;
+	padding-top: 15px;
+	left: 48px;
+	width: 120px;
+	height: 55px;
+	float: left;
+	background: #ff48ce;
+	text-align: center;
+	position: relative;
+	top: -190px;
+	left: 20px;
+}
+.four312:hover .four3122,.four312:hover .four3123{
+	display: block;
+}
+.four313{
+	z-index: 1;
+	width: 190px;
+	height: 107px;
+	float: left;
+}
+.four3131{
+	width: 190px;
+	height: 107px;
+	float: left;
+	background:url(./lzsy/7.png) no-repeat; 
+}
+.four3132{
+	display: none;
+	width: 190px;
+	height: 107px;
+	float: left;
+	background: #635c5b;
+	opacity: 0.6; 
+	z-index: 10;
+	position: relative;
+	top: -107px;
+}
+.four3133{
+	color: white;
+	display: none;
+	z-index: 100;
+	padding-top: 15px;
+	width: 120px;
+	height: 55px;
+	float: left;
+	background: #ff48ce;
+	text-align: center;
+	position: relative;
+	top: -195px;
+	left: 35px;
+}
+.four313:hover .four3132,.four313:hover .four3133{
+	display: block;
+}
+.four32{
+	width: 450px;
+	height: 310px;
+	float: left;
+	margin-top: 5px;
+}
+.four321{
+	float: left;
+	width: 222px;
+	height: 310px;
+}
+.four3211{
+	z-index: 1;
+	float: left;
+	width: 224px;
+	height: 210px;
+}
+.four32111{
+	float: left;
+	width: 224px;
+	height: 210px;
+	background:url(./lzsy/9.png) no-repeat;  
+}
+.four32112{
+	display: none;
+	float: left;
+	width: 224px;
+	height: 210px;
+	background: #635c5b;
+	opacity: 0.6; 
+	z-index: 10;
+	position: relative;
+	top: -210px; 
+}
+.four32113{
+	color: white;
+	display: none;
+	z-index: 100;
+	padding-top: 15px;
+	width: 120px;
+	height: 55px;
+	float: left;
+	background: #ff48ce;
+	text-align: center;
+	position: relative;
+	top: -345px;
+	left: 50px;
+}
+.four3211:hover .four32112,.four3211:hover .four32113{
+	display: block;
+}
+.four3212{
+	width: 220px;
+	height: 92px;
+	float: left;
+}
+.four32121{
+	width: 144px;
+	height: 90px;
+	float: left;
+}
+.four321211{
+	z-index: 1;
+	margin-top: 5px;
+	width: 144px;
+	height: 90px;
+	float: left;
+	background:url(./lzsy/10.png) no-repeat;  
+}
+.four321212{
+	display: none;
+	background: #635c5b;
+	opacity: 0.6; 
+	z-index: 10;
+	position: relative;
+	top: -90px;
+	width: 144px;
+	height: 90px;
+	float: left; 
+}
+.four321213{
+	display: none;
+	z-index: 100;
+	padding-top: 15px;
+	width: 120px;
+	height: 55px;
+	float: left;
+	background: #ff48ce;
+	text-align: center;
+	position: relative;
+	color: white;
+	top: -170px;
+	left: 12px;
+}
+.four32121:hover .four321212,.four32121:hover .four321213{
+	display: block;
+}
+.four32122{
+	margin-top:6px;
+	margin-left: 5px;
+	float: left;
+	width: 71px;
+	height: 90px;
+	background: #e3e3e3;
+}
+.four322{
+	z-index: 1;
+	float: left;
+	width: 220px;
+	height: 308px;
+}
+.four3221{
+	margin-left: 6px;
+	float: left;
+	width: 218px;
+	height: 308px;
+	background:url(./lzsy/11.png) no-repeat;
+}
+.four3222{
+	display: none;
+	margin-left: 6px;
+	float: left;
+	width: 218px;
+	height: 308px;
+	background: #635c5b;
+	opacity: 0.6; 
+	z-index: 10;
+	position: relative;
+	top: -308px;
+}
+.four3223{
+	display: none;
+	z-index: 100;
+	padding-top: 15px;
+	width: 120px;
+	height: 55px;
+	float: left;
+	background: #ff48ce;
+	text-align: center;
+	position: relative;
+	color: white;
+	top: -500px;
+	left: 55px;
+}
+.four322:hover .four3222,.four322:hover .four3223{
+	display: block;
+}
+.four4{
+	margin-left: 3px;
+	float: left;
+	width: 230px;
+	height: 425px;
+}
+.four40{
+	float: left;
+	width: 220px;
+	height: 208px;
+}
+.four41{
+	z-index: 1;
+	float: left;
+	width: 220px;
+	height: 208px;
+	background:url(./lzsy/8.png) no-repeat;
+}
+.four42{
+	display: none;
+	z-index: 10;
+	float: left;
+	width: 220px;
+	height: 208px;
+	background: #635c5b;
+	opacity: 0.6; 
+	z-index: 10;
+	position: relative;
+	top: -208px;
+}
+.four43{
+	display: none;
+	z-index: 100;
+	padding-top: 15px;
+	width: 120px;
+	height: 55px;
+	float: left;
+	background: #ff48ce;
+	text-align: center;
+	position: relative;
+	color: white;
+	top: -350px;
+	left: 50px;
+}
+.four40:hover .four42,.four40:hover .four43{
+	display: block;
+}
+.four44{
+	margin-top: 6px;
+	z-index: 1;
+	width: 224px;
+	height: 209px;
+	float: left;
+}
+.four441{
+	width: 224px;
+	height: 209px;
+	float: left;
+	background:url(./lzsy/12.png) no-repeat;
+}
+.four442{
+	display: none;
+	width: 224px;
+	height: 209px;
+	float: left;
+	background: #635c5b;
+	opacity: 0.6; 
+	z-index: 10;
+	position: relative;
+	top: -209px;
+}
+.four443{
+	display: none;
+	z-index: 100;
+	padding-top: 15px;
+	width: 120px;
+	height: 55px;
+	float: left;
+	background: #ff48ce;
+	text-align: center;
+	position: relative;
+	color: white;
+	top: -345px;
+	left: 53px;
+}
+.four44:hover .four442,.four44:hover .four443{
+	display: block;
+}
+
+
+.last{
+	margin-top: 35px;
+	width: 1600px;
+	height: 75px;
+	float: left;
+	background: #f4f4f4;
+}
+.last1{
+	margin-top: 28px;
+	margin-left: 180px;
+	float: left;
+	width: 460px;
+	height: 25px;
+}
+.last11{
+	font-size: 15px;
+	text-decoration: none;
+	color: #a6a6a6;
+	margin-left: 25px;
+}
+.last2{
+	margin-left: 30px;
+	margin-top: 28px;
+	width: 930px;
+	height: 26px;
+	float: left;
+}
+.last2 span{
+	font-size: 12px;
+	color: #a6a6a6;
+}

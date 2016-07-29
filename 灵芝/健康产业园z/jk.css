@@ -1,0 +1,281 @@
+*{
+	padding: 0;
+	margin:0;
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.bigger{
+	width: 1600px;
+	height: 1603px;
+	border: 1px red solid;
+	font-family: microsoft yahei;
+}
+.head{
+	width: 1600px;
+	height:1542px;
+	background: #09070e;
+}
+.top{
+	float: left;
+	margin-left: 19px;
+	height: 40px;
+	width: 1581px;
+	background: #010102;
+}
+.top1{
+	margin-left: 200px;
+	float: left;
+	width: 1300px;
+	height: 40px;
+}
+.fangda{
+	position: relative;
+	top: -35px;
+	left: 1140px;
+	display: block;
+	width: 21px;
+	height: 26px;
+	background: url(./产业园/1.png) no-repeat;
+}
+.zi1{
+	position: relative;
+	top:12px;
+	width: 51px;
+	height: 16px;
+	background: url(./产业园/13.png) no-repeat;
+}
+.zi2{
+	position: relative;
+	top: -12px;
+	margin-left: 80px;
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+}
+.zi3{
+	position: relative;
+	top: -12px;
+	margin-left: 50px;
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+}
+.one{
+	float: left;
+	width: 1150px;
+	height: 1500px;
+	margin-left: 220px;
+	background: url(./产业园/12.png) no-repeat;
+}
+.one1{
+	float: left;
+	width: 1150px;
+	height: 45px;
+	margin-top: 15px;
+	border-bottom: 2px #12101e solid;
+
+}
+.one11{
+	font-size: 14px;
+	color: white;
+	line-height: 40px;
+}
+.one2{
+	float: left;
+	width: 1150px;
+	height: 1430px;
+}
+.one21{
+	margin-top: 26px;
+	float: left;
+	width: 1140px;
+	height: 421px;
+	background: #f5f5f5;
+}
+.one211{
+	margin-top: 50px;
+	margin-left: 30px;
+	float: left;
+	width: 620px;
+	height: 330px;
+	background: url(./产业园/cy1.png) no-repeat;
+}
+.one212{
+	width: 440px;
+	height: 330px;
+	float: left;
+	margin-left: 27px;
+	margin-top: 50px;
+}
+.one2121{
+	float: left;
+	width: 450px;
+	height: 55px;
+}
+.zi4{
+	font-size: 20px;
+	color: #797979;
+}
+.zi5{
+	font-size: 14px;
+	color: #f05325;
+	font-weight: bold;
+}
+.one2122{
+	width: 430px;
+	height: 40px;
+	float: left;
+}
+.zi6{
+	font-size: 12px;
+	color: #c8c8c8;
+	line-height: 20px;
+}
+.one2123{
+	margin-top: 12px;
+	width: 430px;
+	height: 22px;
+	float: left;
+}
+.one2124{
+	margin-top: 12px;
+	width: 430px;
+	height: 92px;
+	float: left;
+}
+.one22{
+	margin-top: 26px;
+	float: left;
+	width: 1140px;
+	height: 421px;
+	background: #f5f5f5;
+}
+.one221{
+	margin-top: 50px;
+	margin-left: 20px;
+	float: left;
+	width: 630px;
+	height: 330px;
+	background: url(./产业园/cy2.png) no-repeat;
+}
+.one231{
+	margin-top: 50px;
+	margin-left: 20px;
+	float: left;
+	width: 630px;
+	height: 330px;
+	background: url(./产业园/cy3.png) no-repeat;
+}
+.one3{
+	margin-top: 25px;
+	float: right;
+	margin-right: 37px;
+	width: 370px;
+	height: 35px;
+}
+.one31{
+	width: 25px;
+	height: 25px;
+	float: left;
+	background: #7b2783;
+	border: none;
+	color: white;
+}
+.one32:hover{
+	background:#7b2783;
+	color: white; 
+}
+.one32{
+	width: 25px;
+	height: 25px;
+	float: left;
+	border: none;
+	color: black;
+	margin-left: 5px;
+}
+.one33{
+	width: 55px;
+	height: 25px;
+	float: left;
+	border: none;
+	color: black;
+	margin-left: 5px;
+}
+.one33:hover{
+	background:#7b2783;
+	color: white; 
+}
+.one34{
+	font-size: 10px;
+	position: relative;
+	left: -30px;
+	color: white;
+	margin-left: 7px;
+}
+.one35{
+	background: #ebebeb;
+	border: none;
+	width: 40px;
+	height: 24px;
+	float: right;
+	position: relative;
+	left: -56px;
+}
+.one36{
+	position: relative;
+	left: 20px;
+	color: white;
+	font-size: 10px;
+}
+.one37{
+	background:#7b2783; 
+	width: 25px;
+	height: 25px;
+	float: left;
+	border: none;
+	color: white;
+	margin-left: 5px;
+	position: relative;
+	left: 100px;
+}
+.last{
+	width: 1600px;
+	height: 75px;
+	float: left;
+	background: #f4f4f4;
+}
+.last1{
+	margin-top: 28px;
+	margin-left: 170px;
+	float: left;
+	width: 460px;
+	height: 25px;
+}
+.last11{
+	font-size: 15px;
+	text-decoration: none;
+	color: #a6a6a6;
+	margin-left: 25px;
+}
+.last2{
+	margin-left: 40px;
+	margin-top: 28px;
+	width: 900px;
+	height: 26px;
+	float: left;
+}
+.last2 span{
+	font-size: 12px;
+	color: #a6a6a6;
+}
+
+
+
+

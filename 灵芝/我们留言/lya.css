@@ -1,0 +1,293 @@
+*{
+	padding: 0;
+	margin:0;
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.bigger{
+	width: 1600px;
+	height: 898px;
+	border: 1px red solid;
+	font-family: microsoft yahei;
+}
+.head{
+	width: 1600px;
+	height: 830px;
+	background: #09070e;
+}
+.top{
+	float: left;
+	margin-left: 19px;
+	height: 40px;
+	width: 1581px;
+	background: #010102;
+}
+.top1{
+	margin-left: 160px;
+	float: left;
+	width: 1300px;
+	height: 40px;
+}
+.fangda{
+	position: relative;
+	top: -23px;
+	left: 1140px;
+	display: block;
+	width: 21px;
+	height: 26px;
+	background: url(./ly/1.png) no-repeat;
+}
+.zi1{
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+}
+.zi2{
+	margin-left: 80px;
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+}
+.zi3{
+	margin-left: 40px;
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+}
+.liuyan{
+	position: relative;
+	left: 1046px;
+	width: 60px;
+	height: 42px;
+	float: left;
+	border-bottom: 2px #a335ad solid;
+}
+.zi4{
+	margin-left: 40px;
+	line-height: 32px;
+	font-weight: bold;
+	color: #9d32a7;
+	font-size: 12px;
+	text-decoration: none;
+}
+.one{
+	float: left;
+	width: 1140px;
+	height: 725px;
+	background: #f5f5f5;
+	margin-top: 40px;
+	margin-left: 230px;
+}
+.one0{
+	margin-left: 34px;
+	margin-top: 34px;
+	float: left;
+	width: 110px;
+	height: 26px;
+	background: #cb00da;
+}
+.one1{
+	margin-left: 25px;
+	float: left;
+	width: 1111px;
+	height: 653px;
+}
+.one01{
+	font-size: 16px;
+	color: white;
+	margin-left: 20px;
+	line-height: 26px;
+}
+.one11{
+	float: left;
+	width: 1100px;
+	height: 645px;
+	background: url(./ly/ly4.png)-40px 0px no-repeat; 
+}
+.one111{
+	width: 1027px;
+	height: 82px;
+	float: left;
+	border-bottom: 3px #f9f9f9 dotted;
+	margin-left: 37px;
+	margin-top: 20px;
+}
+.one112{
+	float: left;
+	width: 60px;
+	height: 60px;
+	background: url(./ly/ly1.png) no-repeat; 
+}
+.one113{
+	float: left;
+	width: 720px;
+	height: 75px;
+}
+.one1131{
+	font-size: 12px;
+	color: #d7d7d7;
+	line-height: 20px;
+}
+.one1132{
+	font-size: 12px;
+	color: #b2b2b2;
+	line-height: 18px;
+	font-weight: bold;
+}
+.one1133{
+	font-size: 12px;
+	color: #b2b2b2;
+	line-height: 18px;
+}
+.one1140{
+	width: 152px;
+	height: 36px;
+	float: left;
+}
+.one114{
+	float: left;
+	width: 180px;
+	height: 36px;
+	margin-top: 40px;
+	margin-left: 60px;
+}
+.one1141{
+	font-size: 12px;
+	color: #adadad;
+}
+.one1142{
+	margin-left: 2px;
+	margin-top: 7px;
+	float: left;
+	width: 17px;
+	height: 17px;
+	background: url(./ly/1.png)-62px 0px no-repeat; 
+}
+.one1121{
+	float: left;
+	width: 60px;
+	height: 60px;
+	background: url(./ly/ly2.png) no-repeat; 
+}
+.one1122{
+	float: left;
+	width: 60px;
+	height: 60px;
+	background: url(./ly/ly3.png) no-repeat; 
+}
+.one3{
+	margin-top: 5px;
+	float: right;
+	margin-right: 37px;
+	width: 370px;
+	height: 35px;
+}
+.one31{
+	width: 25px;
+	height: 25px;
+	float: left;
+	background: #7b2783;
+	border: none;
+	color: white;
+}
+.one32:hover{
+	background:#7b2783;
+	color: white; 
+}
+.one32{
+	width: 25px;
+	height: 25px;
+	float: left;
+	border: none;
+	color: black;
+	margin-left: 5px;
+}
+.one33{
+	width: 55px;
+	height: 25px;
+	float: left;
+	border: none;
+	color: black;
+	margin-left: 5px;
+}
+.one33:hover{
+	background:#7b2783;
+	color: white; 
+}
+.one34{
+	font-size: 10px;
+	position: relative;
+	left: -30px;
+	color: black;
+	margin-left: 7px;
+}
+.one35{
+	background: #ebebeb;
+	border: none;
+	width: 40px;
+	height: 24px;
+	float: right;
+	position: relative;
+	left: -56px;
+}
+.one36{
+	position: relative;
+	left: 20px;
+	color: black;
+	font-size: 10px;
+}
+.one37{
+	background:#7b2783; 
+	width: 25px;
+	height: 25px;
+	float: left;
+	border: none;
+	color: white;
+	margin-left: 5px;
+	position: relative;
+	left: 100px;
+}
+.last{
+	width: 1600px;
+	height: 75px;
+	float: left;
+	background: #f4f4f4;
+}
+.last1{
+	margin-top: 28px;
+	margin-left: 170px;
+	float: left;
+	width: 460px;
+	height: 25px;
+}
+.last11{
+	font-size: 15px;
+	text-decoration: none;
+	color: #a6a6a6;
+	margin-left: 25px;
+}
+.last2{
+	margin-left: 40px;
+	margin-top: 28px;
+	width: 900px;
+	height: 26px;
+	float: left;
+}
+.last2 span{
+	font-size: 12px;
+	color: #a6a6a6;
+}
+
+
+
+
+
+

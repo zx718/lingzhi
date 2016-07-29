@@ -1,0 +1,112 @@
+﻿*{
+	padding: 0;
+	margin:0;
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.bigger{
+	width: 1600px;
+	height: 730px;
+	border: 1px red solid;
+	font-family: microsoft yahei;
+}
+.head{
+	width: 1600px;
+	height: 654px;
+	background: #09070e;
+}
+.top{
+	float: left;
+	margin-left: 19px;
+	height: 40px;
+	width: 1581px;
+	background: #010102;
+}
+.top1{
+	margin-left: 160px;
+	float: left;
+	width: 1300px;
+	height: 40px;
+}
+.fangda{
+	position: relative;
+	top: -23px;
+	left: 1110px;
+	display: block;
+	width: 21px;
+	height: 26px;
+	background: url(1.png) no-repeat;
+}
+.zi1{
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+}
+.zi2{
+	margin-left: 80px;
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+}
+.zi3{
+	margin-left: 40px;
+	line-height: 32px;
+	font-weight: bold;
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+}
+.top2{
+	margin-left: 130px;
+	width: 1200px;
+	height: 610px;
+	float: left;
+	background: url(12.png) no-repeat; 
+}
+.top21{
+	margin-left: 10px;
+	margin-top: 50px;
+	float: left;
+	width: 1142px;
+	height: 540px;
+	background: url(3.png) no-repeat;
+}
+.last{
+	width: 1600px;
+	height: 75px;
+	float: left;
+	background: #f4f4f4;
+}
+.last1{
+	margin-top: 28px;
+	margin-left: 100px;
+	float: left;
+	width: 460px;
+	height: 25px;
+}
+.last11{
+	font-size: 15px;
+	text-decoration: none;
+	color: #a6a6a6;
+	margin-left: 25px;
+}
+.last2{
+	margin-left: 30px;
+	margin-top: 28px;
+	width: 1000px;
+	height: 26px;
+	float: left;
+}
+.last2 span{
+	font-size: 12px;
+	color: #a6a6a6;
+}
+
+
+
